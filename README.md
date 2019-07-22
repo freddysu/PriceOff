@@ -6,8 +6,8 @@ https://itunes.apple.com/au/app/priceoff/id1450076511
 **Android - Google Play**  
 https://play.google.com/store/apps/details?id=com.goodprice.happylife.priceoff
 
-Last update: 2019.04.20  
-App version: v1.4.2
+Last update: 2019.07.17  
+App version: v1.5.0
 
 ## Introduction
 "Price Off" lists discount & specials in Coles, Woolworths and Chemist Warehouse.  
