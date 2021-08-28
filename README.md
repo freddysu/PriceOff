@@ -6,7 +6,7 @@ https://itunes.apple.com/au/app/priceoff/id1450076511
 **Android - Google Play**  
 https://play.google.com/store/apps/details?id=com.goodprice.happylife.priceoff
 
-Latest App version: v2.1.3  
+Latest App version: v2.1.6 
 
 ## Before using the App
 *If you run into any issue, please email to: yhsu.au@gmail.com instead of leaving in the review so I could further assist you. It would be great if you could provide as many details as possible which helps me find the cause and fix it asap. Much appreciated!  
@@ -33,4 +33,4 @@ Share it with your friends and family to help them save money!
 
 Thank you!  
 
-Copyright Yu Hsuan Su @ 2020
+Copyright Yu Hsuan Su @ 2021
